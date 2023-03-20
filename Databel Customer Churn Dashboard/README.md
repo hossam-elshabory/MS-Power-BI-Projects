@@ -22,7 +22,7 @@
 </div>
 
 
-# [Dataset](\Dataset)
+# [Dataset](https://github.com/hossam-elshabory/MS-Power-BI-Projects/tree/main/Databel%20Customer%20Churn%20Dashboard/Dataset)
 The Databell dataset is a fictional dataset that includes information on customer demographics, usage data, and churn status for a telecom company. 
 
 The goal of this dataset is to provide insights into customer churn rates and identify strategies to reduce churn. The dataset is well-structured and easy to work with in Power BI, and includes features such as customer demographics, service usage data, and churn status. 
