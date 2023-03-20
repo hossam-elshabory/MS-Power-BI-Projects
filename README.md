@@ -1,7 +1,7 @@
 # MS Power BI Projects<img src="_Assets\power-bi.png" align="right" width="80" /><!-- omit in toc -->
 
 <div style="text-align:center;">
-    <img src="_Assets/power_BI_banner.jpg" alt="image description" width="800" />
+    <img src="_Assets/power_BI_banner.jpg" alt="image description" width="500" />
 </div>
 
 <h2 align="center">This Repository Contains Microsoft Power BI Dashboards Projects.</h2>
