@@ -2,28 +2,12 @@
 
 
 # Table Of Content<!-- omit in toc -->
-- [Overview](#overview)
-    - [In this project:](#in-this-project)
 - [Dashboard](#dashboard)
 - [Dataset](#dataset)
 - [Data Model](#data-model)
 - [Solution](#solution)
   - [Executive Summary Page](#executive-summary-page)
   - [Customer Details Page](#customer-details-page)
-
-
-# Overview
-### In this project: 
-
-- **Imported** and **Cleaned** the data using  **Power Query Editor**.
-
-- Created **Measures** using **DAX** to calculate helpful metrics such as monthly revenue, total orders and top performing products.
-
-- Used a Star schema Data Modeling approach to connect the data with an exception to the Product table that extends to 2 more tables (Product Category and Product Sub-Category). 
-
-- Created a 2 pages dashboard for Adventure Works Store:
-  - An Executive Summary page showing monthly **revenue KPI's** and **top products in terms of orders and revenue**.
-  - A Customer details page showing customers by **gender** and **income level**, Top customer driving the **most revenue** and their **order count**. 
 
 
 # Dashboard
