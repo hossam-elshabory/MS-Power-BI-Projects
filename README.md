@@ -1,2 +1,42 @@
-# MS-Power-BI-Projects
-This Repository Contains Microsoft Power BI Dashboards Projects.
+# MS Power BI Projects<img src="_Assets\power-bi.png" align="right" width="80" /><!-- omit in toc -->
+
+<div style="text-align:center;">
+    <img src="_Assets/power_BI_banner.jpg" alt="image description" width="800" />
+</div>
+
+<h2 align="center">This Repository Contains Microsoft Power BI Dashboards Projects.</h2>
+
+# Projects
+
+- ### [Adventure Works Store Dashboard]()
+
+    <details>
+    <summary>Click To View The Dashboard</summary>
+
+    <div style="display: flex; justify-content: center;">
+    <div style="margin-right: 20px;">
+        <img src="Adventure Works Store Dashboard\Assets\exec_summary_page.jpg" width="800">
+    </div>
+    <div>
+        <img src="Adventure Works Store Dashboard\Assets\customer_detail_page.png" width="800">
+    </div>
+    </div>
+
+    </details>
+
+- ### [Databel Customer Churn Dashboard]()
+
+    <details>
+    <summary>Click To View The Dashboard</summary>
+
+    <div style="display: flex; justify-content: center;">
+    <div style="margin-right: 20px;">
+        <img src="Databel Customer Churn Dashboard\Assets\Overview_page.png" width="800">
+    </div>
+    <div>
+        <img src="Databel Customer Churn Dashboard\Assets\Age_group_page.png" width="800">
+    </div>
+    </div>
+
+    </details>
+
