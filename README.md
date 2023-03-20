@@ -8,7 +8,7 @@
 
 # Projects
 
-- ### [Adventure Works Store Dashboard]()
+- ### [Adventure Works Store Dashboard](https://github.com/hossam-elshabory/MS-Power-BI-Projects/tree/main/Adventure%20Works%20Store%20Dashboard)
 
     <details>
     <summary>Click To View The Dashboard</summary>
@@ -24,7 +24,7 @@
 
     </details>
 
-- ### [Databel Customer Churn Dashboard]()
+- ### [Databel Customer Churn Dashboard](https://github.com/hossam-elshabory/MS-Power-BI-Projects/tree/main/Databel%20Customer%20Churn%20Dashboard)
 
     <details>
     <summary>Click To View The Dashboard</summary>
