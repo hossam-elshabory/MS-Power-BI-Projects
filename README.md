@@ -8,7 +8,7 @@
 
 # Projects
 
-- ### [Maven Telecom Churn Dashboard](https://github.com/hossam-elshabory/MS-Power-BI-Projects/tree/main/Databel%20Customer%20Churn%20Dashboard)
+- ### [Maven Telecom Churn Dashboard](https://github.com/hossam-elshabory/MS-Power-BI-Projects/tree/main/Maven%20Telecom%20Churn%20Dashboard%20(Report))
 
     <details>
     <summary>Click To View The Dashboard</summary>
