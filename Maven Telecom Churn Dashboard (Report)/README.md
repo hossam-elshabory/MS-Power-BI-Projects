@@ -75,14 +75,14 @@ The Churn Risk Metric utilizes a deviation approach to assess the risk associate
 > [!IMPORTANT]
 > See the [Data Preprocessing Notebook](https://colab.research.google.com/drive/1y6FjBDC6MfQq_59otNqam2S9e3yPox9W?usp=sharing) for the full data preparation code.
 > 
-> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y6FjBDC6MfQq_59otNqam2S9e3yPox9W?usp=sharing)
+> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hossam-elshabory/MS-Power-BI-Projects/blob/main/Maven%20Telecom%20Churn%20Dashboard%20(Report)/Maven_Telecom_Churn_Analysis_Data_Preprocessing.ipynb)
 
 # 🛠️ Solution
 
 > [!NOTE]
 > The Maven Communications Churn dashboard solution is a two-page Power BI report.
 
-## 💰 Revenue Summary Page 
+## 💰 Revenue Summary Page
 
 <details>
 <summary>Click To View The Page</summary>
@@ -126,5 +126,5 @@ This Power BI project was inspired by various project submissions for the [Maven
 The following links showcase project submissions that served as inspiration for this project:
 
 - [Gerard Duggan Blog Project Blog Post](https://dg-analysis.com/2022/08/06/telecoms-churn-maven-challenge/).
-- [shruti bhagi's Maven Challenge Submission](https://mavenanalytics.io/project/7119)
-- [Lucia Stefanuto's Maven Challenge Submission](https://mavenanalytics.io/project/378)
+- [shruti bhagi's Maven Challenge Submission](https://mavenanalytics.io/project/7119).
+- [Lucia Stefanuto's Maven Challenge Submission](https://mavenanalytics.io/project/378).
